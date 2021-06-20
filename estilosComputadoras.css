@@ -1,0 +1,13 @@
+.fondo{
+	background-image:url('imagenes/images.jpeg'); 
+	background-repeat:no-repeat; 
+	background-position: 300px 3px; 
+	background-size:500px auto; 
+	height: 500px;  
+	width: auto;
+}
+
+label{
+	font-size:18px;
+	font-weight: bold
+}
