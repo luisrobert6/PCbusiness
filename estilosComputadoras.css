@@ -1,13 +1,16 @@
 .fondo{
 	background-image:url('imagenes/images.jpeg'); 
-	background-repeat:no-repeat; 
-	background-position: 300px 3px; 
-	background-size:500px auto; 
-	height: 500px;  
-	width: auto;
+	background-repeat:no-repeat;
+	background-position: center;
+	background-size:50% auto; 
+	height: 500px;  //tamanio div
+	width: auto;	//tamanio div
 }
+
+
 
 label{
 	font-size:18px;
 	font-weight: bold
 }
+
